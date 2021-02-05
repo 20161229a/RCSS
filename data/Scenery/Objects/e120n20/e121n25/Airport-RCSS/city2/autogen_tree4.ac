@@ -1,0 +1,1978 @@
+AC3Db
+MATERIAL "NoName" rgb 1 1 0.8  amb 1 1 0.8  emis 0 0 0  spec 0 0 0  shi 2  trans 0
+OBJECT world
+kids 104
+OBJECT poly
+name "Plane"
+loc 27.3922 0 45.8522
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.90735e-006 8 4
+-1.90735e-006 0 4
+-1.90735e-006 0 -4
+-1.90735e-006 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.4664 0 45.4809
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 45.6294
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3179 0 46.1493
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.6672 0 45.6704
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.7415 0 45.299
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.6672 0 45.4476
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.593 0 45.9674
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 28.7588
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.90735e-006 8 -4
+-1.90735e-006 0 -4
+-1.90735e-006 0 4
+-1.90735e-006 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.4664 0 28.3875
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 28.536
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 1.90735e-006
+-4 0 1.90735e-006
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3179 0 29.0558
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.0578 0 28.5586
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.1321 0 28.1873
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.0578 0 28.3358
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9835 0 28.8556
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 28.8589
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.032 0 28.4876
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 28.6361
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.8834 0 29.1559
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 28.8589
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.032 0 28.4876
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 28.6361
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.8834 0 29.1559
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.810925 0 45.1589
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.73666 0 44.7875
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.810925 0 44.9361
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.885189 0 45.4559
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.9186 0 44.7952
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.9928 0 44.4239
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.9186 0 44.5724
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.8443 0 45.0922
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.7367 0 28.0654
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.811 0 27.6941
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.7367 0 27.8426
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.6625 0 28.3625
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.7367 0 28.0654
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.811 0 27.6941
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.7367 0 27.8426
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 13.6625 0 28.3625
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.420353 0 28.0471
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.346088 0 27.6758
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.420353 0 27.8243
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.494617 0 28.3441
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.520451 0 28.3474
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.446186 0 27.976
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.520451 0 28.1246
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.594715 0 28.6444
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.520451 0 28.3474
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.446186 0 27.976
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.520451 0 28.1246
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.594715 0 28.6444
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 16.6963
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.90735e-006 8 4
+-1.90735e-006 0 4
+-1.90735e-006 0 -4
+-1.90735e-006 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.4664 0 16.325
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 16.4735
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3179 0 16.9934
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.6672 0 16.5145
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.7415 0 16.1431
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.6672 0 16.2917
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.593 0 16.8115
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 -0.397152
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.90735e-006 8 -4
+-1.90735e-006 0 -4
+-1.90735e-006 0 4
+-1.90735e-006 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.4664 0 -0.768474
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3922 0 -0.619945
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 4.76837e-007
+-4 0 4.76837e-007
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 27.3179 0 -0.100097
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.0578 0 -0.597346
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.1321 0 -0.968667
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.0578 0 -0.820138
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 4.76837e-007
+-4 0 4.76837e-007
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9835 0 -0.30029
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 -0.297056
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.032 0 -0.668377
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 4
+0 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 -0.519848
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 4.76837e-007
+-4 8 4.76837e-007
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.8834 0 0
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 -0.297056
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 43.032 0 -0.668377
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+0 0 4
+0 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.9577 0 -0.519848
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 4.76837e-007
+-4 0 4.76837e-007
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 42.8834 0 0
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.216208 0 16.5145
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-9.53674e-007 8 4
+-9.53674e-007 0 4
+-9.53674e-007 0 -4
+-9.53674e-007 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.141945 0 16.1431
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+9.53674e-007 8 4
+9.53674e-007 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.216208 0 16.2917
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.290473 0 16.8115
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.5133 0 16.1508
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-9.53674e-007 8 -4
+-9.53674e-007 0 -4
+-9.53674e-007 0 4
+-9.53674e-007 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.5875 0 15.7795
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+9.53674e-007 0 4
+9.53674e-007 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.5133 0 15.928
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 9.53674e-007
+-4 0 9.53674e-007
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.439 0 16.4478
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.3314 0 -0.578998
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-9.53674e-007 8 4
+-9.53674e-007 0 4
+-9.53674e-007 0 -4
+-9.53674e-007 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.4057 0 -0.950319
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+9.53674e-007 8 4
+9.53674e-007 0 4
+0 0 -4
+0 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.3314 0 -0.80179
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 4.76837e-007
+-4 8 4.76837e-007
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.2572 0 -0.281942
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.3314 0 -0.578998
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-9.53674e-007 8 -4
+-9.53674e-007 0 -4
+-9.53674e-007 0 4
+-9.53674e-007 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.4057 0 -0.950319
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+0 8 -4
+0 0 -4
+9.53674e-007 0 4
+9.53674e-007 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.3314 0 -0.80179
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 4.76837e-007
+-4 0 4.76837e-007
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 14.2572 0 -0.281942
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.174361 0 -0.597346
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.78814e-007 8 4
+-1.78814e-007 0 4
+-2.98023e-007 0 -4
+-2.98023e-007 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.248625 0 -0.968667
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+6.4075e-007 8 4
+6.4075e-007 0 4
+-1.78814e-007 0 -4
+-1.78814e-007 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.174361 0 -0.820138
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 4.76837e-007
+-4 8 4.76837e-007
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.100097 0 -0.30029
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.0742641 0 -0.297056
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-2.98023e-007 8 -4
+-2.98023e-007 0 -4
+-1.78814e-007 0 4
+-1.78814e-007 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.148528 0 -0.668377
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.78814e-007 8 -4
+-1.78814e-007 0 -4
+6.4075e-007 0 4
+6.4075e-007 8 4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.0742645 0 -0.519848
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 4.76837e-007
+-4 0 4.76837e-007
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-4 8 0
+-4 0 0
+4 0 0
+4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.0742641 0 -0.297056
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+-1.78814e-007 8 4
+-1.78814e-007 0 4
+-2.98023e-007 0 -4
+-2.98023e-007 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.148528 0 -0.668377
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+6.4075e-007 8 4
+6.4075e-007 0 4
+-1.78814e-007 0 -4
+-1.78814e-007 8 -4
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
+OBJECT poly
+name "Plane"
+loc 0.0742645 0 -0.519848
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 4.76837e-007
+-4 8 4.76837e-007
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+3 1 1
+0 0 1
+1 0 0
+2 1 0
+kids 0
+OBJECT poly
+name "Plane"
+texture "E:/FlightGear 2018.1.1/data/Scenery/Objects/e120n20/e121n25/Airport-RCSS/city2/deciduous-tree.png"
+crease 45.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0
+1 1 0
+kids 0
