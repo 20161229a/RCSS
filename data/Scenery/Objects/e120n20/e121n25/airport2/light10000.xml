@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
     <path>light10000.ac</path>
 
@@ -12,12 +11,6 @@
         <alpha-factor>0.01</alpha-factor>
     </animation>
 
-
-    <animation>
-	  <type>range</type>
-	  <min-m>0</min-m>
-	  <max-m>10000</max-m>
-    </animation>
 
     <animation>
         <type>billboard</type>

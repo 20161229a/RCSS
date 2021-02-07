@@ -81,6 +81,7 @@
 <animation>
 <type>material</type>
 	<object-name>lightarea</object-name>
+        <object-name>light10000</object-name>
 <transparency>
 	<alpha-prop>environment/visibility-m</alpha-prop>
 	<factor>1</factor>
@@ -91,6 +92,7 @@
 <animation>
 <type>select</type>
 	<object-name>lightarea</object-name>
+        <object-name>light10000</object-name>
 <condition>		
 <greater-than>		
 	<property>/sim/time/sun-angle-rad</property>
@@ -111,6 +113,7 @@
 <animation>
 <type>material</type>
 	<object-name>redlight</object-name>
+        <object-name>light10000</object-name>
 <condition>		
 <greater-than>		
 	<property>/sim/time/sun-angle-rad</property>
@@ -127,6 +130,7 @@
 <animation>
 <type>material</type>
 	<object-name>floodlight</object-name>
+        <object-name>light10000</object-name>
 <condition>		
 <greater-than>		
 	<property>/sim/time/sun-angle-rad</property>
@@ -143,6 +147,7 @@
 <animation>
 <type>material</type>
 	<object-name>blah</object-name>
+        <object-name>light10000</object-name>
 <condition>		
 <greater-than>		
 	<property>/sim/time/sun-angle-rad</property>
@@ -160,6 +165,7 @@
  	<object-name>lightvolume</object-name>
  	<object-name>lightarea</object-name>
  	<object-name>blah</object-name>
+        <object-name>light10000</object-name>
 <enable-hot type="bool">false</enable-hot>
 </animation>
 
